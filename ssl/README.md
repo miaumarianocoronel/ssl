@@ -1,0 +1,1 @@
+gcc (Rev2, Built by MSYS2 project) 12.1.0 C y C++
